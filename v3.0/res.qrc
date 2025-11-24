@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pictures/00-icon.png.png</file>
+        <file>pictures/01-background-blue.jpg</file>
+        <file>pictures/02-block-red.png</file>
+        <file>pictures/03-block-darkred.png</file>
+        <file>pictures/04-bullet.png</file>
+        <file>pictures/11-cannon-1.png</file>
+        <file>pictures/12-cannon-3.png</file>
+        <file>pictures/13-cannon-4.jpg</file>
+        <file>pictures/21-wheel.png</file>
+        <file>pictures/31-warplane-red.png</file>
+        <file>pictures/32-warplane-blue.jpg</file>
+        <file>pictures/41-cloud.png</file>
+        <file>pictures/000-start.png</file>
+        <file>pictures/000-startbutton.png</file>
+        <file>pictures/999-lose_image.png</file>
+        <file>pictures/999-win_image.png</file>
+        <file>pictures/999-againbutton.png</file>
+        <file>pictures/999-closebutton.png</file>
+        <file>pictures/61-Sun.gif</file>
+        <file>pictures/52-cardshop-sun.png</file>
+        <file>pictures/53-cardshop.png</file>
+        <file>pictures/51-card.png</file>
+    </qresource>
+</RCC>
